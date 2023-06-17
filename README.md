@@ -1,7 +1,7 @@
 # Simple-Utility-Programs
 This is intended to be a project with simple implementations of complex processes.
 For instance, a text editor that is basically a stripped version of NotePad or MS Word.
-The idea is to underdstand the fundamental processes that work behind the scenes and essentially replicate them.
+The idea is to understand the fundamental processes that work behind the scenes and essentially replicate them.
 Code should be clear, concise and understandable.
 Contributions are welcome.
 If you see a complex idea that you can break down into simple code, feel free to give it a whirl!
